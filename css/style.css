@@ -331,3 +331,6 @@ fieldset {
 
   color: black;
 }
+button {
+  cursor: pointer;
+}
